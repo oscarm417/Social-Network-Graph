@@ -6,7 +6,7 @@ build a social following network. From here I was able to identify who the impor
 could maximize sponsoship reach. 
 
 Additionally, I identified the major cliques(groups of individuals) in the network, which helped the client map
-and visually explore the data set uzing graphing applications. 
+and visually explore the data set uzing graphing applications. This was accomplished by decomposing the data into a 2 dimensional space using T-SNE.
 
 ![image](https://github.com/oscarm417/Social-Network-Graph/assets/65280357/b73c1d4e-d2b0-45d0-ab1c-4fe7a99f02df)
 
